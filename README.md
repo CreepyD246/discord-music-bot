@@ -4,5 +4,5 @@ This is a simple discord music bot that streams music instead of downloading a s
 
 ## Requirements
 You'll need to install the following modules/libraries:  
-`pip install youtube_dl`  
-`pip install discord`
+```pip install youtube_dl```  
+```pip install discord```
