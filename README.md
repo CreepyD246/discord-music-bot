@@ -7,4 +7,6 @@ You can watch that tutorial here - https://youtu.be/xyVY4n4_0MQ
 ## Requirements
 You'll need to install the following modules/libraries:  
 ```pip install youtube_dl```  
-```pip install discord```
+```pip install discord```  
+
+You'll also need to create a Bot Application on Discord's Developer Portal - https://discord.com/developers/docs/intro
